@@ -1,1 +1,1 @@
-module.exports = ["Furkan Demir"];
+module.exports = ["Furkan Demir", "Omer Ozceylan"];
