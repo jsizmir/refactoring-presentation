@@ -3,7 +3,7 @@ const printWinner = require("./extra");
 
 function giveaway(names) {
   var winner = "";
-  for (var i = 0; i < 10; i++) {
+  for (var i = 0; i < names.length; i++) {
     winner = names[Math.floor(Math.random() * names.length)];
   }
   return winner;

@@ -4,10 +4,10 @@ function getFirstTaxBracket(person) {
   return person.salary * 0.1;
 }
 
-function getSecondTaxBracket(salary) {
+function getSecondTaxBracket(person) {
   return person.salary * 0.3;
 }
 
-function getThirdTaxBracket(salary) {
+function getThirdTaxBracket(person) {
   return person.salary * 0.5;
 }

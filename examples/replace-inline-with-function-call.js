@@ -1,7 +1,5 @@
 // 222
 
-// replace inline with function call
-
 let basket = ["Apple", "Water", "Cake"];
 let hasApple = false;
 
